@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 @RestController
-@CrossOrigin(origins = "https://stock-tracker-vt1d.onrender.com")
+@CrossOrigin(origins = "https://ntu-us-stock-tracker.onrender.com/")
 @RequestMapping("/userApi")
 public class UserController {
 
