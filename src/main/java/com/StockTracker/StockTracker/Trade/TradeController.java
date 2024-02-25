@@ -10,7 +10,7 @@ import java.util.Map;
 
 @RequestMapping("/tradeApi")
 @RestController
-@CrossOrigin(origins = "https://ntu-us-stock-tracker.onrender.com/")
+@CrossOrigin(origins = "https://ntu-us-stock-tracker.onrender.com")
 
 public class TradeController {
 
